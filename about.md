@@ -2,8 +2,8 @@
 layout: page
 title: About
 permalink: /about/
----
 
+---
 A simple and elegant theme for Jekyll and GitHub Pages.
 
 ### Features:
@@ -42,4 +42,4 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install jekyll-athena
+    $ gem install faysalahmed
